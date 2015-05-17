@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/andressocha/AndroidstudioProjects/DopboxPicSaver/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">DopboxPicSaver</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_failed_load">Couldn\'t connect to Dropbox.</string>
+    <string name="error_file_already_exists">A file with that name already exists</string>
+    <string name="error_invalid_filename">Invalid file name</string>
+    <string name="link_to_dropbox">Link to Dropbox</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_rename">Rename</string>
+    <string name="new_note_confirm">Create</string>
+    <string name="new_pic_dialog_title">New pic:</string>
+    <string name="new_pic_name_hint">my_pic</string>
+    <string name="new_pic_option">New Photo</string>
+    <string name="no_pics">No Photos</string>
+    <string name="old_version">A newer version of this file exists. Any changes made to this version will create a conflicted copy.</string>
+    <string name="rename_pic_confirm">Rename</string>
+    <string name="rename_pic_dialog_title">Rename Pic:</string>
+    <string name="status_folder">Folder</string>
+    <string name="title_note_detail">Pic Detail</string>
+    <string name="title_pic_list">Photos</string>
+    <string name="unlink_from_dropbox">Unlink from Dropbox</string>
+    <!-- From: file:/Users/andressocha/AndroidstudioProjects/DopboxPicSaver/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

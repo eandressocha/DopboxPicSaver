@@ -1,0 +1,10 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:name="com.dropbox.examples.pics.PicListFragment"
+    android:id="@+id/note_list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    tools:context=".NoteListActivity" />
+<!-- From: file:/Users/andressocha/AndroidstudioProjects/DopboxPicSaver/app/src/main/res/layout/activity_note_list.xml -->
